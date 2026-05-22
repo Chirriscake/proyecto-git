@@ -1,5 +1,5 @@
 Diario del alumno
 
-# Entrada    Hora    Descripción
-________________________________
-    01       hh:mm   text
+# Entrada    Hora    Descripción    Lugar
+_________________________________________
+    01       hh:mm   texto          texto
