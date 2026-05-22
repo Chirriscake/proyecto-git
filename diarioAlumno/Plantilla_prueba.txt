@@ -1,0 +1,5 @@
+Diario del alumno
+
+# Entrada    Hora    Descripción
+________________________________
+    01       hh:mm   text
